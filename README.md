@@ -1,4 +1,4 @@
-## Features of Databricks
+## Features of XYZ
 
 Before we start working with Databricks, let’s discuss some main features we should be aware of.
 
